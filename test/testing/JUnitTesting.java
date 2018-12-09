@@ -2,7 +2,6 @@
 package testing;
 
 import controller.PasswordResponse;
-import controller.LoginController;
 import view.Signup_Patient;
 import static org.junit.Assert.*;
 import org.junit.Test;
